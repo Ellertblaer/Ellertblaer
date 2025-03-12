@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Github Man.
-
-https://www.youtube.com/watch?v=b3-QqGVt-tM
+Ég er mættur á Hubbarann.
 
 <!--
 **Ellertblaer/Ellertblaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
