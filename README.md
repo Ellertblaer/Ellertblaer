@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sæl verið, sjentílmenni! 👋
 
 Ég er mættur á Hubbarann.
 
